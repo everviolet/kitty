@@ -40,6 +40,7 @@ include /path/to/{your_theme_file}.conf
 
 - [cultofleda](https://github.com/cultofleda)
 - [comfysage](https://github.com/comfysage)
+- [genshibe](https://github.com/genshibe)
 
 <hr>
 
